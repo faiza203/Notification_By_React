@@ -3,7 +3,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-  Notifications from Firebase
+  <h1>Notifications from Firebase</h1>
+  <button>Take Notification</button>
     </div>
   );
 }
