@@ -7,8 +7,8 @@ const firebaseConfig = {
   projectId: "common-50c43",
   storageBucket: "common-50c43.appspot.com",
   messagingSenderId: "670911494230",
-  appId: "1:670911494230:web:f3b275d099e5763c75a3f7",
-  measurementId: "G-VWTHY9S6DH"
+  appId: "1:670911494230:web:857a94f90ca0755575a3f7",
+  measurementId: "G-7S6PJVJD26"
 };
 firebase.initializeApp(firebaseConfig);
 firebase.messaging();
